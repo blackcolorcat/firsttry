@@ -1,4 +1,6 @@
 init
-commit
+com
+sfd
+sf
 original
-greb
+eb
